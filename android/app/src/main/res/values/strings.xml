@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KrishiMadad</string>
+    <string name="title_activity_main">KrishiMadad</string>
+    <string name="package_name">com.A_G_S_M.krishimadad</string>
+    <string name="custom_url_scheme">com.A_G_S_M.krishimadad</string>
+</resources>
